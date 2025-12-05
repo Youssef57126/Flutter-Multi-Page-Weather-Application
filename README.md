@@ -6,9 +6,10 @@ The Weather App allows users to search for any city and view detailed weather in
 Users can also save cities to their favorites list, and choose between Metric (°C) or Imperial (°F) units.
 
 
-=======================================================================================================================================================================
-✨ Features
-🔍 Search Weather
+==================================================================================================================
+# Features
+
+Search Weather
 
 Search for any city worldwide
 
@@ -16,13 +17,14 @@ View weather icon, temperature, description, and details
 
 Glass-effect UI design for clarity and readability
 
-⭐ Favorites
+ Favorites
 
 Save your favorite cities
 
 Tap a saved city to instantly load its weather
 
-⚙️ Settings
+
+Settings
 
 Choose temperature unit:
 
@@ -30,7 +32,7 @@ Metric (°C)
 
 Imperial (°F)
 
-📄 Weather Details
+Weather Details
 
 Feels like temperature
 
@@ -42,7 +44,7 @@ Sunrise & sunset (based on timezone)
 
 Large weather icon
 
-🎨 Modern UI
+Modern UI
 
 Gradient backgrounds
 
